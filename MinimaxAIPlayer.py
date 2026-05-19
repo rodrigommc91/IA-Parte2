@@ -123,7 +123,7 @@ class MinimaxAIPlayer(Player):
                 score += evaluate_window(window, player, opponent, n)
 
         return score
-        
+        #gaydrigo na zona
         
     
     
